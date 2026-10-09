@@ -1,14 +1,14 @@
 {
-  "headTitle": "堀内、小林旅行",
-  "title": "Sakura Miko<br>Blooming-Parade!!",
-  "scheduleUrl": "https://plsk.net/zenmashi?rm=minimal",
-  "motimonoUrl": "https://plsk.net/zenmashi2?rm=minimal",
-  "okaneUrl": "https://plsk.net/zenmashi3?rm=minimal",
-  "musicUrl": "https://youtube.com/playlist?list=PLDVPqFfLpuxCwfotweiQ5oQrwnxDctPNe&si=2EqZW2pqbz_FoXO6",
-  "overviewUrl": "https://blooming-parade.hololivepro.com/",
+  "headTitle": "久保、小林旅行",
+  "title":"HOSHIMACHI SUISEI ARENA TOUR 2026 <br> Once Upon a Stellar"
+  "scheduleUrl": "https://plsk.net/zenmashi4?rm=minimal",
+  "motimonoUrl": "https://plsk.net/zenmashi5?rm=minimal",
+  "okaneUrl": "https://plsk.net/zenmashi6?rm=minimal",
+  "musicUrl": "https://www.youtube.com/playlist?list=PLetG6Yc5ztJA",
+  "overviewUrl": "https://hoshimachi-suisei-fc.jp/s/hs/page/arena_tour_2026",
   "maps": [
-    "https://www.google.co.jp/maps/place/K%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E6%A8%AA%E6%B5%9C/@35.4645715,139.630625,17z/data=!3m1!4b1!4m6!3m5!1s0x60185d66ccb437e9:0xb4f6cda48f02cb83!8m2!3d35.4645715!4d139.630625!16s%2Fg%2F11rj5myt_z?hl=ja&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
-    "https://www.google.com/maps/place/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8%E3%83%9B%E3%83%86%E3%83%AB%E6%A8%AA%E6%B5%9C/@35.4479051,139.6303175,17z/data=!4m9!3m8!1s0x60185dec085fdf81:0xe5a2861ebbe665a3!5m2!4m1!1i2!8m2!3d35.4479051!4d139.6328924!16s%2Fg%2F11pb8v3g21?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "https://maps.app.goo.gl/YMUaYeyEHQUCs29ZA",
+    "https://maps.app.goo.gl/715R1ghRStWdUbog8",
     "ここに地図3のGoogleマップURLを入れる",
     "ここに地図4のGoogleマップURLを入れる"
   ]
